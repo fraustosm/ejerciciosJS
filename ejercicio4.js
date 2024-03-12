@@ -1,4 +1,4 @@
-//Solución ejercicio 3
+//Solución ejercicio 4
 
 let student1Courses = ['Math', 'English', 'Programming'];
 let student2Courses = ['Geography', 'Spanish', 'Programming'];
